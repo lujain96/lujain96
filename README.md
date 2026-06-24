@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lujain96
-- 👀 I’m interested in Data Science, Machine Learning, and Computer Vision
-- 🌱 I’m currently learning Pytorch
+- 👀 I’m interested in Data Analysis, Data Science, Machine Learning, and Computer Vision
+- 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me https://www.linkedin.com/in/lojin-younis/
 
 <!---
